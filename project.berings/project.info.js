@@ -18,7 +18,7 @@ function changeVikRight() {
         numberOfSlide++
         vikanImg.style.opacity = '0'
         setTimeout(() => {
-            vikanImg.src = `../image/Bearings/${numberOfSlide}.png`
+            vikanImg.src = `../image/Bearings/${numberOfSlide}.jpg`
             vikanImg.style.opacity = '1'
         }, 200);
     }
@@ -31,7 +31,7 @@ function changeVikleft() {
 
         vikanImg.style.opacity = '0'
         setTimeout(() => {
-            vikanImg.src = `../image/Bearings/${numberOfSlide}.png`
+            vikanImg.src = `../image/Bearings/${numberOfSlide}.jpg`
             vikanImg.style.opacity = '1'
         }, 200);
     }
