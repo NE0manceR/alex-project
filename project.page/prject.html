@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	<link rel="stylesheet" href="project.css">
+
+</head>
+
+<body>
+	<div class="project">
+		<header>
+			<div class="logo"><a href="../index.html"><span class="brackets">{ </span><span
+						class="logo-write"></span><span class="brackets"> }</span></a></div>
+			<div class="header-link-wrap">
+				<img onclick="showMobileMenu()" class="mobile-menu-icon" src="../image/mobile-menu-icon.png" alt="img">
+				<a onclick="changeHome()" class="header-link" href="../about.page/about.html">About</a>
+				<a class="header-link" href="#">Projects</a>
+				<a class="header-link" href="../contacts/contacts.html">Contacts</a>
+			</div>
+		</header>
+		<div class="project-root">
+
+			<div class="mobile-wrap">
+				<div class="mobile-menu">
+					<img class="close-icon" onclick="hideMenu()" src="../image/close-mobile.png" alt="img">
+					<div class="mobile-link">
+						<a href="../about.page/about.html">About</a>
+						<a href="../project.page/prject.html">Projects</a>
+						<a href="../contacts/contacts.html">Contacts</a>
+						<a target="_blank" class="cv"
+							href="https://drive.google.com/file/d/1V0sNKf-rwYSwZ90tj7cRp7o1mFIWJAzU/view?usp=sharing">Open
+							CV</a>
+					</div>
+				</div>
+			</div>
+
+
+			<p class="project-title">Projects</p>
+			<p class="under-project">Here are a few projects I've worked on recently</p>
+			<div class="project-grid">
+				<div class="column">
+
+					<div class="card-wrap alex">
+						<img onclick="selectProject(event)" class="pr-img" src="../projects.img/pr-alex.png" alt="img">
+						<p class="project-name">Personal Portfolio</p>
+						<p class="pr-theme">Nature</p>
+					</div>
+					<div class="card-wrap pro">
+						<img onclick="selectProject(event)" class="pr-img" src="../projects.img/agym.png" alt="img">
+						<p class="project-name">ProjectPro</p>
+						<p class="pr-theme">Nature</p>
+					</div>
+				</div>
+				<div class="column">
+					<div class="card-wrap vikan">
+						<img onclick="selectProject(event)" class="pr-img" src="../projects.img/Img.png" alt="img">
+						<p class="project-name">Vikan Ukraine</p>
+						<p class="pr-theme">Travel</p>
+					</div>
+					<div class="card-wrap component">
+						<img onclick="selectProject(event)" class="pr-img" src="../projects.img/components.png"
+							alt="img">
+						<p class="project-name">Components</p>
+						<p class="pr-theme">Travel</p>
+					</div>
+				</div>
+				<div class="column">
+					<div class="card-wrap agym">
+						<img onclick="selectProject(event)" class="pr-img" src="../projects.img/pr-pro.png" alt="img">
+						<p class="project-name">Agym</p>
+						<p class="pr-theme">Life</p>
+					</div>
+					<div class="card-wrap berings">
+						<img onclick="selectProject(event)" class="pr-img" src="../projects.img/Bearings.png" alt="img">
+						<p class="project-name">Bearings</p>
+						<p class="pr-theme">Life</p>
+					</div>
+				</div>
+			</div>
+
+
+		</div>
+
+	</div>
+
+
+
+	<script src="../scripts/mobile-menu.js"></script>
+
+	<script src="../script.js"></script>
+	<script src="project.js"></script>
+</body>
+
+</html>

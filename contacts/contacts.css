@@ -1,0 +1,150 @@
+@import "../styles/header.css";
+@import "../styles/mobile-menu.css";
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #090909;
+    overflow-x: hidden;
+}
+
+.contacts {
+    transition: 0.5s;
+}
+
+.contacts-titte {
+    font-family: 'Noto Sans', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 144px;
+    line-height: 92.7%;
+    color: #FFFFFF;
+    margin-bottom: 142px;
+}
+
+.contacts-root {
+    padding: 180px 254px 0 254px;
+    position: relative;
+    overflow: hidden;
+    height: 100vh;
+    background: url('../image/hole.png')no-repeat;
+    background-size: 150%;
+    background-position: center 70vh;
+}
+
+.contacts-blue {
+    font-family: 'Noto Sans', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 92.7%;
+    color: #0276FF;
+    margin-bottom: 34px;
+}
+
+.question {
+    font-family: 'Noto Sans', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 144.7%;
+    color: #FFFFFF;
+    margin-bottom: 100px;
+}
+
+.text-position {
+    margin-bottom: 100px;
+}
+
+.text-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 124px;
+}
+
+.link-grid {
+    display: grid;
+}
+
+.link-grid a {
+    text-decoration: none;
+    font-family: 'Noto Sans', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 92.7%;
+    color: #0276FF;
+}
+
+@media (max-width: 1920px) {
+    .contacts-blue {
+        font-size: 36px;
+    }
+    .link-grid a {
+        font-size: 24px;
+    }
+    .question {
+        font-size: 18px;
+        margin-bottom: 32px;
+    }
+    .contacts-blue {
+        font-size: 34px;
+        margin-bottom: 34px;
+    }
+    .contacts-root {
+        padding: 180px 250px 0 250px;
+    }
+    .contacts-titte {
+        font-size: 100px;
+        margin-bottom: 62px;
+    }
+}
+
+@media (max-width: 1450px) {
+    .contacts-root {
+        padding: 180px 100px 0 100px;
+    }
+    .contacts-root {
+        background: url('../image/hole.png')no-repeat;
+        background-size: inherit;
+        background-position: center 70vh;
+    }
+}
+
+@media (max-width: 1024px) {
+    .contacts-blue {
+        font-size: 24px;
+    }
+    .contacts-titte {
+        font-size: 80px;
+    }
+    .contacts-root {
+        padding: 180px 16px 50px 16px;
+    }
+    .text-grid {
+        grid-template-columns: 1fr;
+    }
+    .link-grid {
+        grid-template-columns: 1fr 1fr 1fr;
+        justify-items: center
+    }
+}
+
+@media (max-width: 625px) {
+    .contacts-root {
+        padding: 110px 16px 50px 16px;
+    }
+    .contacts-titte {
+        font-size: 36px;
+    }
+    .link-grid {
+        grid-template-columns: 1fr;
+        row-gap: 24px;
+    }
+}
