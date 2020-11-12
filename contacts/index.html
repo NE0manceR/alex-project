@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>dev-alex</title>
+	<link rel="stylesheet" href="contacts.css">
+	<link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,700;1,400&display=swap" rel="stylesheet">
+	<link rel="icon" type="image/fiveIcon.ico" href="../image/fiveIcon.ico">
+</head>
+
+<body>
+	<div class="contacts">
+		<header>
+			<div class="logo">
+				<a href="../index.html"><span class="brackets">
+						{ </span>
+					<span class="logo-write"></span>
+					<span class="brackets">
+						}</span>
+				</a>
+			</div>
+			<div class="header-link-wrap">
+				<img onclick="showMobileMenu()" class="mobile-menu-icon" src="../image/mobile-menu.svg" alt="img">
+				<a class="header-link" href="../about/index.html">About</a>
+				<a class="header-link" href="../project/index.html">Projects</a>
+				<a class="header-link active" href="#">Contacts</a>
+			</div>
+		</header>
+		<div class="contacts-root">
+			<div class="mobile-wrap">
+				<div class="mobile-menu">
+					<img class="close-icon" onclick="hideMenu()" src="../image/mobile-menu-close.svg" alt="img">
+					<div class="mobile-link">
+						<a href="../about/index.html">About</a>
+						<a href="../project/index.html">Projects</a>
+						<a href="#">Contacts</a>
+
+						<a class="cv"
+							href="https://drive.google.com/file/d/1V0sNKf-rwYSwZ90tj7cRp7o1mFIWJAzU/view?usp=sharing">Open
+							CV</a>
+					</div>
+				</div>
+			</div>
+			<p class="contacts-titte">
+				Let’s start our<br> collaboration
+			</p>
+			<p class="contacts-blue">
+				Contacts
+			</p>
+			<div class="text-grid">
+				<div>
+					<p class="question text-position">
+						Ready to start your bold ideas. I am looking for an opportunity to collaborate,<br> with
+						companies, agencies,
+						individuals and
+						bring the value to the project.
+					</p>
+					<p class="question">
+						Do you have any questions? Feel free to ask.
+					</p>
+				</div>
+				<div class="link-grid">
+					<a target='_blank' href="https://www.linkedin.com/in/alex-krynytskyi/">Linkedin</a>
+					<a target='_blank' href="https://github.com/NE0manceR">GitHub</a>
+					<a href="mailto:'alex.krynytskyi@gmail.com'">Email</a>
+				</div>
+			</div>
+
+			<!-- <img class="contact-hole" src="../image/hole.png" alt=""> -->
+		</div>
+	</div>
+
+	<script src="../script.js"></script>
+	<script src="../scripts/mobile-menu.js"></script>
+	<script src="contacts.js"></script>
+</body>
+
+</html>

@@ -2,7 +2,7 @@
 let logo = document.querySelector('.logo-write');
 let x = 0;
 let logotext = "dev-alexandt";
-
+let headerBcg = document.querySelector('header');
 
 // function changeHome() {
 //     homePage.style.opacity = '0'
@@ -38,3 +38,13 @@ function myLogo() {
 
     }, 1000);
 }
+
+window.addEventListener('scroll', ()=>{
+    console.log(window.scrollY);
+    if (window.scrollY != 0) {
+        headerBcg.style.background = 'rgba(0, 0, 0, 0.7)'
+    } else {
+        headerBcg.style.background = 'transparent'
+
+    }
+})

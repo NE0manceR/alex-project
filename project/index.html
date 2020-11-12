@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>dev-alex</title>
+	<link rel="stylesheet" href="project.css">
+	<link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,700;1,400&display=swap" rel="stylesheet">
+	<link rel="icon" type="image/fiveIcon.ico"  href="../image/fiveIcon.ico"> 
+</head>
+<body>
+	<div class="project">
+		<header>
+			<div class="logo"><a href="../index.html">
+					<span class="brackets">
+						{ </span>
+					<span class="logo-write"></span>
+					<span class="brackets">
+						}</span>
+				</a>
+			</div>
+			<div class="header-link-wrap">
+				<img onclick="showMobileMenu()" class="mobile-menu-icon" src="../image/mobile-menu.svg" alt="img">
+				<a onclick="changeHome()" class="header-link" href="../about/index.html">About</a>
+				<a class="header-link active" href="#">Projects</a>
+				<a class="header-link" href="../contacts/index.html">Contacts</a>
+			</div>
+		</header>
+		<div class="project-root">
+			<div class="mobile-wrap">
+				<div class="mobile-menu">
+					<img class="close-icon" onclick="hideMenu()" src="../image/mobile-menu-close.svg" alt="img">
+					<div class="mobile-link">
+						<a href="../about/index.html">About</a>
+						<a href="#">Projects</a>
+						<a href="../contacts/index.html">Contacts</a>
+						<a target="_blank" class="cv"
+							href="https://drive.google.com/file/d/1V0sNKf-rwYSwZ90tj7cRp7o1mFIWJAzU/view?usp=sharing">Open
+							CV</a>
+					</div>
+				</div>
+			</div>
+			<p class="project-title">Projects</p>
+			<p class="under-project">Here are a few projects I've worked on recently</p>
+			<div class="project-grid">
+				<div class="column">
+					<div class="card-wrap alex">
+						<img onclick="selectProject(event)" class="pr-img" src="../projects.img/pr-alex.png" alt="img">
+						<p class="project-name">Personal Portfolio</p>
+						<p class="pr-theme">IT</p>
+					</div>
+					<div class="card-wrap pro">
+						<img onclick="selectProject(event)" class="pr-img" src="../projects.img/pr-pro.png" alt="img">
+						<p class="project-name">Search</p>
+						<p class="pr-theme">Components</p>
+					</div>
+				</div>
+				<div class="column">
+					<div class="card-wrap vikan">
+						<img onclick="selectProject(event)" class="pr-img" src="../projects.img/Img.png" alt="img">
+						<p class="project-name">Vikan Ukraine</p>
+						<p class="pr-theme">Shredders</p>
+					</div>
+					<div class="card-wrap component">
+						<img onclick="selectProject(event)" class="pr-img" src="../projects.img/components.png"
+							alt="img">
+						<p class="project-name">Project Pro</p>
+						<p class="pr-theme">It company</p>
+					</div>
+				</div>
+				<div class="column">
+					<div class="card-wrap agym">
+						<img onclick="selectProject(event)" class="pr-img" src="../projects.img/agym.png" alt="img">
+						<p class="project-name">Agym</p>
+						<p class="pr-theme">Health</p>
+					</div>
+					<div class="card-wrap berings">
+						<img onclick="selectProject(event)" class="pr-img" src="../projects.img/Bearings.png" alt="img">
+						<p class="project-name">Bearings</p>
+						<p class="pr-theme">Product</p>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</div>
+
+
+	<script src="../scripts/mobile-menu.js"></script>
+
+	<script src="../script.js"></script>
+	<script src="project.js"></script>
+</body>
+
+</html>

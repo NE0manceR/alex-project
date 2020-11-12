@@ -14,7 +14,26 @@ body {
     overflow-x: hidden;
 }
 
+
+.active:before {
+    content: "";
+    width: 100%;
+    border-bottom: 3px solid  #0276FF;
+    position: absolute;
+    top: 25px;
+    transition: 0.5s;
+}
+.active:before {
+    content: "";
+    width: 100%;
+    border-bottom: 3px solid  #0276FF;
+    position: absolute;
+    top: 25px;
+    transition: 0.5s;
+}
+
 .contacts {
+    opacity: 0;
     transition: 0.5s;
 }
 

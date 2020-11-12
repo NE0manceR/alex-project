@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6482ea2f-f2e3-4022-988f-eb67750e243a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.page/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/about/about.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.page/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.page/about.js" beforeDir="false" afterPath="$PROJECT_DIR$/about/about.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contacts/contacts.css" beforeDir="false" afterPath="$PROJECT_DIR$/contacts/contacts.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contacts/contacts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/Bearings/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/Bearings/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/Bearings/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/Bearings/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/Bearings/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/Bearings/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/agym/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/agym/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/agym/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/close-mobile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/github.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/linkedin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/mobile-menu-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/personal/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/personal/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/personal/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/personal/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/personal/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/personal/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/projectVikan/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/projectVikan/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/projectVikan/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/projectVikan/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/projectVikan/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/projectVikan/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.agym/project.info.html" beforeDir="false" afterPath="$PROJECT_DIR$/project.agym/project.info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.agym/project.info.js" beforeDir="false" afterPath="$PROJECT_DIR$/project.agym/project.info.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.alex/project.info.html" beforeDir="false" afterPath="$PROJECT_DIR$/project.alex/project.info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.berings/project.info.html" beforeDir="false" afterPath="$PROJECT_DIR$/project.berings/project.info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.berings/project.info.js" beforeDir="false" afterPath="$PROJECT_DIR$/project.berings/project.info.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.components/project.info.html" beforeDir="false" afterPath="$PROJECT_DIR$/project.components/project.info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.components/project.info.js" beforeDir="false" afterPath="$PROJECT_DIR$/project.components/project.info.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.page/prject.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.page/project.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.page/project.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.projectPro/project.info.html" beforeDir="false" afterPath="$PROJECT_DIR$/project.projectPro/project.info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.vikan/project.info.html" beforeDir="false" afterPath="$PROJECT_DIR$/project.vikan/project.info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects.img/Bearings.png" beforeDir="false" afterPath="$PROJECT_DIR$/projects.img/Bearings.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects.img/Img.png" beforeDir="false" afterPath="$PROJECT_DIR$/projects.img/Img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects.img/Rectangle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects.img/agym.png" beforeDir="false" afterPath="$PROJECT_DIR$/projects.img/agym.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects.img/components.png" beforeDir="false" afterPath="$PROJECT_DIR$/projects.img/components.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects.img/pr-alex.png" beforeDir="false" afterPath="$PROJECT_DIR$/projects.img/pr-alex.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects.img/pr-pro.png" beforeDir="false" afterPath="$PROJECT_DIR$/projects.img/pr-pro.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/mobile-menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/mobile-menu.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="sortByName" value="true" />
+  </component>
+  <component name="ProjectId" id="1jaNhm2farvMM8eh80fhqaIabxk" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="about.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SVAlex 2.0/pages/about.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SVAlex 2.0/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.about.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6482ea2f-f2e3-4022-988f-eb67750e243a" name="Default Changelist" comment="" />
+      <created>1604038364044</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604038364044</updated>
+      <workItem from="1604038365105" duration="934000" />
+      <workItem from="1604039310789" duration="5570000" />
+      <workItem from="1604052933079" duration="3394000" />
+      <workItem from="1604092753337" duration="78000" />
+      <workItem from="1604298150015" duration="623000" />
+      <workItem from="1604301020668" duration="1835000" />
+      <workItem from="1604334950185" duration="780000" />
+      <workItem from="1604519837095" duration="15000" />
+      <workItem from="1605011217896" duration="12151000" />
+      <workItem from="1605083166690" duration="7317000" />
+      <workItem from="1605112028938" duration="5000" />
+      <workItem from="1605113225012" duration="226000" />
+      <workItem from="1605113648134" duration="262000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1148" y="123" key="#Intentions" timestamp="1605113698202">
+      <screen x="-1280" y="54" width="1280" height="984" />
+    </state>
+    <state x="-1148" y="123" key="#Intentions/0.0.1920.1040/-1280.54.1280.984@-1280.54.1280.984" timestamp="1605113698202" />
+    <state x="-875" y="287" key="#Web_Browsers" timestamp="1605011283044">
+      <screen x="-1280" y="54" width="1280" height="984" />
+    </state>
+    <state x="-875" y="287" key="#Web_Browsers/0.0.1920.1040/-1280.54.1280.984@-1280.54.1280.984" timestamp="1605011283044" />
+    <state x="-945" y="183" key="#xdebugger.evaluate" timestamp="1604046480030">
+      <screen x="-1280" y="54" width="1280" height="984" />
+    </state>
+    <state x="-945" y="183" key="#xdebugger.evaluate/0.0.1920.1040/-1280.54.1280.984@-1280.54.1280.984" timestamp="1604046480030" />
+    <state x="-913" y="243" width="740" height="748" key="FileChooserDialogImpl" timestamp="1604519850581">
+      <screen x="-1280" y="54" width="1280" height="984" />
+    </state>
+    <state x="-913" y="243" width="740" height="748" key="FileChooserDialogImpl/0.0.1920.1040/-1280.54.1280.984@-1280.54.1280.984" timestamp="1604519850581" />
+    <state width="1229" height="190" key="GridCell.Tab.0.bottom" timestamp="1604091846119">
+      <screen x="-1280" y="54" width="1280" height="984" />
+    </state>
+    <state width="1229" height="190" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1280.54.1280.984@-1280.54.1280.984" timestamp="1604091846119" />
+    <state width="1229" height="190" key="GridCell.Tab.0.center" timestamp="1604091846119">
+      <screen x="-1280" y="54" width="1280" height="984" />
+    </state>
+    <state width="1229" height="190" key="GridCell.Tab.0.center/0.0.1920.1040/-1280.54.1280.984@-1280.54.1280.984" timestamp="1604091846119" />
+    <state width="1229" height="190" key="GridCell.Tab.0.left" timestamp="1604091846119">
+      <screen x="-1280" y="54" width="1280" height="984" />
+    </state>
+    <state width="1229" height="190" key="GridCell.Tab.0.left/0.0.1920.1040/-1280.54.1280.984@-1280.54.1280.984" timestamp="1604091846119" />
+    <state width="1229" height="190" key="GridCell.Tab.0.right" timestamp="1604091846119">
+      <screen x="-1280" y="54" width="1280" height="984" />
+    </state>
+    <state width="1229" height="190" key="GridCell.Tab.0.right/0.0.1920.1040/-1280.54.1280.984@-1280.54.1280.984" timestamp="1604091846119" />
+    <state width="1229" height="190" key="GridCell.Tab.1.bottom" timestamp="1604091846119">
+      <screen x="-1280" y="54" width="1280" height="984" />
+    </state>
+    <state width="1229" height="190" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1280.54.1280.984@-1280.54.1280.984" timestamp="1604091846119" />
+    <state width="1229" height="190" key="GridCell.Tab.1.center" timestamp="1604091846119">
+      <screen x="-1280" y="54" width="1280" height="984" />
+    </state>
+    <state width="1229" height="190" key="GridCell.Tab.1.center/0.0.1920.1040/-1280.54.1280.984@-1280.54.1280.984" timestamp="1604091846119" />
+    <state width="1229" height="190" key="GridCell.Tab.1.left" timestamp="1604091846119">
+      <screen x="-1280" y="54" width="1280" height="984" />
+    </state>
+    <state width="1229" height="190" key="GridCell.Tab.1.left/0.0.1920.1040/-1280.54.1280.984@-1280.54.1280.984" timestamp="1604091846119" />
+    <state width="1229" height="190" key="GridCell.Tab.1.right" timestamp="1604091846119">
+      <screen x="-1280" y="54" width="1280" height="984" />
+    </state>
+    <state width="1229" height="190" key="GridCell.Tab.1.right/0.0.1920.1040/-1280.54.1280.984@-1280.54.1280.984" timestamp="1604091846119" />
+    <state width="1229" height="190" key="GridCell.Tab.2.bottom" timestamp="1604091846119">
+      <screen x="-1280" y="54" width="1280" height="984" />
+    </state>
+    <state width="1229" height="190" key="GridCell.Tab.2.bottom/0.0.1920.1040/-1280.54.1280.984@-1280.54.1280.984" timestamp="1604091846119" />
+    <state width="1229" height="190" key="GridCell.Tab.2.center" timestamp="1604091846119">
+      <screen x="-1280" y="54" width="1280" height="984" />
+    </state>
+    <state width="1229" height="190" key="GridCell.Tab.2.center/0.0.1920.1040/-1280.54.1280.984@-1280.54.1280.984" timestamp="1604091846119" />
+    <state width="1229" height="190" key="GridCell.Tab.2.left" timestamp="1604091846119">
+      <screen x="-1280" y="54" width="1280" height="984" />
+    </state>
+    <state width="1229" height="190" key="GridCell.Tab.2.left/0.0.1920.1040/-1280.54.1280.984@-1280.54.1280.984" timestamp="1604091846119" />
+    <state width="1229" height="190" key="GridCell.Tab.2.right" timestamp="1604091846119">
+      <screen x="-1280" y="54" width="1280" height="984" />
+    </state>
+    <state width="1229" height="190" key="GridCell.Tab.2.right/0.0.1920.1040/-1280.54.1280.984@-1280.54.1280.984" timestamp="1604091846119" />
+    <state x="-1280" y="91" width="1280" height="883" key="SettingsEditor" timestamp="1605111548386">
+      <screen x="-1280" y="54" width="1280" height="984" />
+    </state>
+    <state x="-1280" y="91" width="1280" height="883" key="SettingsEditor/0.0.1920.1040/-1280.54.1280.984@-1280.54.1280.984" timestamp="1605111548386" />
+    <state width="623" height="498" key="SwitcherDM" timestamp="1605088863279">
+      <screen x="-1280" y="54" width="1280" height="984" />
+    </state>
+    <state width="623" height="498" key="SwitcherDM/0.0.1920.1040/-1280.54.1280.984@-1280.54.1280.984" timestamp="1605088863279" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SVAlex_2_0$about_html.dat" NAME="about.html Coverage Results" MODIFIED="1604040180598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

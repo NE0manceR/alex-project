@@ -19,7 +19,7 @@ header {
 }
 
 .brackets {
-    font-family: Tahoma;
+    font-family: 'Noto Sans', sans-serif;
     color: #0276FF;
 }
 
@@ -31,7 +31,7 @@ header {
 
 .header-link, .logo {
     text-decoration: none;
-    font-family: Tahoma;
+    font-family: 'Noto Sans', sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 36px;
@@ -39,9 +39,27 @@ header {
     color: #FFFFFF;
 }
 
+
+.header-link {
+    position: relative;
+}
+
+.header-link:before {
+    content: "";
+    width: 0;
+    border-bottom: 3px solid #0276FF;
+    position: absolute;
+    top: 25px;
+    transition: 0.5s;
+}
+
+.header-link:hover:before {
+    width: 100%;
+}
+
 .logo a {
     text-decoration: none;
-    font-family: Tahoma;
+    font-family: 'Noto Sans', sans-serif;
     color: white;
 }
 

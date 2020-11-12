@@ -16,6 +16,7 @@ body {
 
 .project-vikan {
     transition: 0.5s;
+    opacity: 0;
 }
 
 

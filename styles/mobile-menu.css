@@ -32,7 +32,7 @@
 .mobile-menu a {
     text-decoration:none ;
     justify-self: center;
-    font-family: Tahoma;
+    font-family: 'Noto Sans', sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 24px;
@@ -42,7 +42,7 @@
 }
 
 .mobile-menu .cv {
-    font-family: Tahoma;
+    font-family: 'Noto Sans', sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
@@ -70,6 +70,7 @@
 
 .close-icon {
     justify-self: end;
+    cursor: pointer;
 }
 
 @media(max-width:1024px) {
